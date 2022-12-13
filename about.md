@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+permalink: /about/
 author: 
   name: 陈星灿
   picture: assets/image/logo.jpg
