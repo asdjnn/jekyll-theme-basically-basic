@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-layout: about
+layout: page
 ---
 
 ## 自我介绍
