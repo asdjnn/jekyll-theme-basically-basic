@@ -4,7 +4,7 @@ layout: about
 permalink: /about/
 author: 
   name: 陈星灿
-  picture: ../assets/image/banner/logo.jpg
+  picture: ../assets/image/logo.jpg
 ---
 
 ## 自我介绍
