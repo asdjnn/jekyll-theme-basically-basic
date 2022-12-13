@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -7,19 +7,19 @@ t:
   skip_primary_nav: "Skip to primary navigation"
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
-  menu: "Menu"
-  search: "Search"
+  menu: "菜单"
+  search: "搜索"
   site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
+  results_found: "条结果"
+  search_placeholder_text: "输入点啥..."
+  home: "主页"
   newer: "Newer"
   older: "Older"
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
+  posts: "Posts 文章"
+  page: "Page 页面"
   of: "of"
   min_read: "min read"
   present: "Present"
