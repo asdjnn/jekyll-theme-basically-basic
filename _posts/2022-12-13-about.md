@@ -3,7 +3,7 @@ title: "关于我"
 layout: about
 author: 
   name: 陈星灿
-  picture: assets/image/banner/icon.jpg
+  picture: assets/image/banner/logo.jpg
 ---
 
 ## 自我介绍
