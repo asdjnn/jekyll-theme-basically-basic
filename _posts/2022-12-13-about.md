@@ -1,10 +1,9 @@
 ---
 title: "关于我"
 layout: about
-permalink: /about/
 author: 
   name: 陈星灿
-  picture: assets/image/head.jpg
+  picture: assets/image/logo.jpg
 ---
 
 ## 自我介绍
@@ -14,9 +13,9 @@ author:
 我曾于2018年成人之际入伍，在驻香港部队深圳基地教导团服役两年。在服役的两年中，我曾获得过优秀士兵将，并且担后勤单位弹药库管理人员。
 现就读于中山大学南方学院，担任团总支学生会影音设置部干事一职。
 
----
 
 ## 联系方式
+---
 qq：1217799303
 
 邮箱：1217799303@qq.com
