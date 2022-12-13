@@ -25,7 +25,7 @@ author:
   picture: 
 twitter_username:
 github_username: asdjnn
-logo: "/assets/image/logo.jpg"
+logo: "assets/image/logo.jpg"
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
