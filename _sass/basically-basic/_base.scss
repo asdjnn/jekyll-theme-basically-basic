@@ -14,8 +14,10 @@ body {
 
 blockquote,
 q {
-  color: tint($text-color, 40%);
+  color: #698caf;
   font-style: italic;
+  padding: 10px;
+  background: #cdebf3;
 
   cite {
     font-size: 80%;
