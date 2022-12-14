@@ -1,6 +1,7 @@
 ---
 title: "图像、视频设计"
 layout: page
+read_time: true
 categories: 
   - 学习笔记
 author: 

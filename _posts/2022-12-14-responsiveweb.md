@@ -1,6 +1,7 @@
 ---
 title: "响应式web设计基础"
 layout: page
+read_time: true
 categories: 
   - 学习笔记
 tags:
