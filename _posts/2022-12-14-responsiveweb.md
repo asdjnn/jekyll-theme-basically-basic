@@ -21,6 +21,7 @@ author:
 
 ### Web标准
 * Web标准不是某一个标准，而是由W3C和其他标准化组织制定的一系列标准的集合。 包含我们所熟悉的HTML、XHTML、CSS、JavaScript等等。
+
 ### HTML
 * HTML(英文Hyper Text MarkupLanguage的缩写)中文译为“超文本标记语言”，主要是通过HTML标记对网页中的文本、图片、声音等内容进行描述。
 
