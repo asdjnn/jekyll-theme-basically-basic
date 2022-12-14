@@ -2,6 +2,7 @@
 title: "页面结构"
 layout: page
 read_time: true
+image: assets/image/banner/note.jpg
 categories: 
   - 学习笔记
 author: 

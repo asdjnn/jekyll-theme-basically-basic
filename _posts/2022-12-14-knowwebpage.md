@@ -2,6 +2,7 @@
 title: "响应式网页与媒体查询"
 layout: page
 read_time: true
+image: assets/image/banner/note.jpg
 categories: 
   - 学习笔记
 author: 

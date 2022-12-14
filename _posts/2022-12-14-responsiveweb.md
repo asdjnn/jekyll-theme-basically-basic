@@ -2,6 +2,7 @@
 title: "响应式web设计基础"
 layout: page
 read_time: true
+image: assets/image/banner/note.jpg
 categories: 
   - 学习笔记
 author: 

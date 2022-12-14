@@ -2,6 +2,7 @@
 title: "CSS新特性"
 layout: page
 read_time: true
+image: assets/image/banner/note.jpg
 categories: 
   - 学习笔记
 author: 
