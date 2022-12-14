@@ -7,7 +7,6 @@ author:
   name: 陈星灿
 ---
 
-# CSS高级技术
 ### 使用CSS3制作文字阴影
 * text-shadow属性：在CSS3中可以用text-shadow属性给页面上的文字添加阴影效果,可以通过对text-shadow属性设置相关的属性值，来实现一些需要的字体阴影效果,减少了图片的使用。
 text-shadow属性的使用方法：text-shadow：X轴Y轴Rpxcolor;
