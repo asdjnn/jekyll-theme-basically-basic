@@ -2,9 +2,9 @@
 title: "CSS高级技术"
 layout: page
 read_time: true
-image: assets/image/banner/note.jpg
+image: assets/image/banner/webdesign.jpg
 categories: 
-  - 学习笔记
+  - 网站设计
 author: 
   name: 陈星灿
 ---

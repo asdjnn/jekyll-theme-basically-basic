@@ -2,9 +2,9 @@
 title: "图像、视频设计"
 layout: page
 read_time: true
-image: assets/image/banner/note.jpg
+image: assets/image/banner/planedesign.jpg
 categories: 
-  - 学习笔记
+  - 平面设计
 author: 
   name: 陈星灿
 ---
